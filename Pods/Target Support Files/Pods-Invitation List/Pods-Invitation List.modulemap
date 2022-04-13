@@ -1,0 +1,6 @@
+framework module Pods_Invitation_List {
+  umbrella header "Pods-Invitation List-umbrella.h"
+
+  export *
+  module * { export * }
+}
